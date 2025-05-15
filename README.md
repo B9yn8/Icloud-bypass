@@ -81,11 +81,11 @@
 ## 📷 Screenshots
 
 <div align="center">
-  <img src="STEPSbypass.GIF" alt="Full Steps Guide" width="600">
+  <img src="GIFEX.GIF" alt="Full Steps Guide" width="600">
 </div>
 
 <div align="center">
-  <img src="PaySteps.GIF" alt="Payment Steps" width="600">
+  <img src="PAYEMS.GIF" alt="Payment Steps" width="600">
 </div>
 
 ---
